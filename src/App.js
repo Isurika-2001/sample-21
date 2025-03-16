@@ -1,11 +1,12 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
+import Profile from './profileReact.webp';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={Profile} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
@@ -15,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Isurika
         </a>
       </header>
     </div>
